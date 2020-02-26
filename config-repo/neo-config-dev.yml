@@ -3,3 +3,7 @@ neo:
   num: 100
   flag: true
   ismdHost: aaa,bbb,ccc
+  lists:
+  - ddd
+  - eee
+  - fff
