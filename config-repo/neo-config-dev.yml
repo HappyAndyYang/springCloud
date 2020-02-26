@@ -2,3 +2,4 @@ neo:
   hello: hello im dev update2
   num: 100
   flag: true
+  ismdHost: aaa,bbb,ccc
