@@ -1,6 +1,6 @@
 neo:
   hello: hello im dev update2
-  num: 300
+  num: 150
   flag: true
   ismdHost: aaa,bbb,ccc
   lists:
